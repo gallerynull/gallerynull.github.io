@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://gallerynull.github.io
+Sitemap: https://gallerynull.github.io/sitemap.xml
